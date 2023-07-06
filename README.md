@@ -7,7 +7,7 @@ Esta é a mais completa e atualizada tradução já feita para Shadow of Chernob
 - Totalmente remodelada do zero
 - Diálogos reformulados para melhor entendimento
 - Destaques em textos que mostra ao jogador partes importantes da história
-- Uso de palavras inteligentes " Personagens especificos possuem um linguajar diferente, o mesmo com facções especificas"
+- Uso de palavras inteligentes " Personagens específicos possuem um linguajar diferente, o mesmo com facções específicas"
 - Compatível com todas as vozes (Inglês, Ucrâniano, Russo, Espanhol, Italiano, Japonês, etc..)
 - Compatível com as versões Steam/GoG v.10006
 - Compatível com o mod "Zone Reclamation Project 1.07 RC5 stable
