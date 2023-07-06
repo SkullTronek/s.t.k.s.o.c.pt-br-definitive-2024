@@ -1,2 +1,18 @@
 # S.T.A.L.K.E.R.: Shadow of Chernobyl Tradução 2023
-Tradução para s.t.a.l.k.e.r.: shadow of chernobyl corrigida e atualizada v2023
+S.T.A.L.K.E.R.: Shadow of Chernobyl recebeu duas traduções, ambos as versões possuem erros de acentuação, erros de string e também linhas que não existem na versão final oficial v.10006
+
+Esta é a mais completa e atualizada tradução já feita para Shadow of Chernobyl, nela contém:
+
+- Acentuação em todas as palavras do dicionário português brasileiro
+- Totalmente remodelada do zero
+- Diálogos reformulados para melhor entendimento
+- Destaques em textos que mostra ao jogador partes importantes da história
+- Uso de palavras inteligentes " Personagens especificos possuem um linguajar diferente, o mesmo com facções especificas"
+- Compatível com todas as vozes (Inglês, Ucrâniano, Russo, Espanhol, Italiano, Japonês, etc..)
+- Compatível com as versões Steam/GoG v.10006
+- Compatível com o mod "Zone Reclamation Project 1.07 RC5 stable
+
+*Todo o projeto foi escrito e feito por Jonathas Fiorito Melo*
+*Agradecimentos para NatVac, por fornercer arquivos .txt corrigidos e atualizados com seu mod ZRP*
+
+**Esta tradução não possui mods algum, nem mesmo o Zone Reclamation Project. Há somente arquivos de texto em português brasileiro compatível com SoC v1.0006 Steam/GoG e Zone Reclamation Project 1.07 RC 5 stable**
