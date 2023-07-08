@@ -2,6 +2,7 @@ s.t.a.l.k.e.r.: shadow of chernobyl tradução 2023
 
 <!-- log.file -->
 
+___________________________
 @stable_dialogs_escape.xml:
 
 encoding="windows-1251" >>> Atualizado para encoding="windows-1252"
@@ -19,3 +20,4 @@ Linha 726 >>> Atualização na escrita; - 06/07/2023
 Alterado diálogos com Fanatic, Nimble, Wolf e Sidorovich; - 08/07/2023
 Mudanças no diálogo sobre a Zona com Sidorovich, Fox e Fanatic; - 08/07/2023
 Mudanças no diálogo a respeito sobre o personagem "Strelok"; - 08/07/2023
+___________________________
