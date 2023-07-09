@@ -3,6 +3,9 @@ S.T.A.L.K.E.R.: Shadow of Chernobyl recebeu duas traduções, ambos as versões 
 
 _______________________________________________________
 **>>>>> Andamento:** *1/91 arquivos traduzidos* **<<<<<**
+
+*Log:* https://github.com/SkullTronek/s.t.a.l.k.e.r.-shadow-of-chernobyl-tradu-o2023/blob/main/log.xml (última edição: 09/07/2023)
+*Rev:* https://github.com/SkullTronek/s.t.a.l.k.e.r.-shadow-of-chernobyl-tradu-o2023/blob/main/rev.xml (última edição: 05/07/2023)
 _______________________________________________________
 
 Esta é a mais completa e atualizada tradução já feita para Shadow of Chernobyl, nela contém:
