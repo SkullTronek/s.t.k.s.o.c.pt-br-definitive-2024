@@ -3,6 +3,8 @@ S.T.A.L.K.E.R.: Shadow of Chernobyl recebeu duas traduções, ambos as versões 
 
 **>>>>> Andamento:** *1/91 arquivos traduzidos* **<<<<<<**
 
+**Canal do Discord:** https://discord.gg/kHjkEqkB
+
 Esta é a mais completa e atualizada tradução já feita para Shadow of Chernobyl, nela contém:
 
 - Acentuação em todas as palavras do dicionário português brasileiro
