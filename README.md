@@ -1,6 +1,6 @@
 # S.T.A.L.K.E.R.: Shadow of Chernobyl Tradução 2023
 _______________________________________________________
-Projeto Antigo Cancelado (v2021): https://www.moddb.com/news/traduo-refeita-para-stalker-shadow-of-chernobyl
+Projeto Antigo Cancelado (v2020): https://www.moddb.com/news/traduo-refeita-para-stalker-shadow-of-chernobyl
 _______________________________________________________
 
 S.T.A.L.K.E.R.: Shadow of Chernobyl recebeu duas traduções, ambos as versões possuem erros de acentuação, erros de string e também linhas que não existem na versão final oficial v.10006
