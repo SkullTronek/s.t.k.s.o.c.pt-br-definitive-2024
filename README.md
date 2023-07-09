@@ -1,6 +1,8 @@
 # S.T.A.L.K.E.R.: Shadow of Chernobyl Tradução 2023
 S.T.A.L.K.E.R.: Shadow of Chernobyl recebeu duas traduções, ambos as versões possuem erros de acentuação, erros de string e também linhas que não existem na versão final oficial v.10006
 
+**Andamento:** *1/91 arquivos traduzidos*
+
 Esta é a mais completa e atualizada tradução já feita para Shadow of Chernobyl, nela contém:
 
 - Acentuação em todas as palavras do dicionário português brasileiro
