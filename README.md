@@ -1,14 +1,6 @@
 # S.T.A.L.K.E.R.: Shadow of Chernobyl Tradução 2023
 S.T.A.L.K.E.R.: Shadow of Chernobyl recebeu duas traduções, ambos as versões possuem erros de acentuação, erros de string e também linhas que não existem na versão final oficial v.10006
 
-_______________________________________________________
-**>>>>> Andamento:** *1/91 arquivos traduzidos* **<<<<<**
-
-*Log:* https://github.com/SkullTronek/s.t.a.l.k.e.r.-shadow-of-chernobyl-tradu-o2023/blob/main/log.xml (última edição: 09/07/2023)
-
-*Rev:* https://github.com/SkullTronek/s.t.a.l.k.e.r.-shadow-of-chernobyl-tradu-o2023/blob/main/rev.xml (última edição: 05/07/2023)
-_______________________________________________________
-
 Esta é a mais completa e atualizada tradução já feita para Shadow of Chernobyl, nela contém:
 
 - Acentuação em todas as palavras do dicionário português brasileiro
@@ -25,3 +17,11 @@ Esta é a mais completa e atualizada tradução já feita para Shadow of Chernob
 
 **Esta tradução não possui mods algum, nem mesmo o Zone Reclamation Project. Há somente arquivos de texto em português brasileiro compatível com SoC v1.0006 Steam/GoG**
 #
+
+_______________________________________________________
+**>>>>> Andamento:** *1/91 arquivos traduzidos* **<<<<<**
+
+*Log:* https://github.com/SkullTronek/s.t.a.l.k.e.r.-shadow-of-chernobyl-tradu-o2023/blob/main/log.xml (última edição: 09/07/2023)
+
+*Rev:* https://github.com/SkullTronek/s.t.a.l.k.e.r.-shadow-of-chernobyl-tradu-o2023/blob/main/rev.xml (última edição: 05/07/2023)
+_______________________________________________________
