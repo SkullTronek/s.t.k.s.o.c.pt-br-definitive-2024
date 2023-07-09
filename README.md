@@ -18,3 +18,4 @@ Esta é a mais completa e atualizada tradução já feita para Shadow of Chernob
 *Agradecimentos para NatVac, por fornercer arquivos .txt corrigidos e atualizados com seu mod ZRP*
 
 **Esta tradução não possui mods algum, nem mesmo o Zone Reclamation Project. Há somente arquivos de texto em português brasileiro compatível com SoC v1.0006 Steam/GoG**
+#
