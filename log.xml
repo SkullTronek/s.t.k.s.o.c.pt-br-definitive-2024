@@ -51,7 +51,7 @@ Linha 31 >>> arquivo "ZRP" possui o string da linha 31 atualizado. String foi re
              Para não forçar o jogador a ter que instalar outros arquivos além dos necessários para os textos em pt-br, eu removi o string atualizado e substituí pelo antigo; - 12/07/2023
 Linha 77 >>> Atualização na escrita; - 12/07/2023;
 Linha 80 >>> Atualização na escrita; - 12/07/2023;
-Linha 95 >>> "storyline_escape_find_gunslinger_text" - foi substituído pelo texto do arquivo "ZRP"; - 12/07/2023
+Linha 95 >>> "storyline_escape_find_gunslinger" - foi substituído pelo texto do arquivo "ZRP"; - 12/07/2023
 Linha 151 >>> "find_railroad_passage_text" - foi totalmente reescrito para melhor compeensão; - 12/07/2023
 
 >>>> Arquivo 100% Traduzido <<<< - 12/07/2023.
