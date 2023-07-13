@@ -58,3 +58,7 @@ Linha 151 >>> "find_railroad_passage_text" - foi totalmente reescrito para melho
 
 >>>> Revisão Completa <<<< - 12/07/2023.
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________
+------------------------------
+@string_table_tips_escape.xml:
+------------------------------
+implementado encoding="windows-1252" >>> permitido acentuar palavras; arquivo original não havia nenhum tipo de encoding
