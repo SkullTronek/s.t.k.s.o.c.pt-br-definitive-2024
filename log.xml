@@ -62,3 +62,35 @@ ________________________________________________________________________________
 @string_table_tips_escape.xml:
 ------------------------------
 implementado encoding="windows-1252" >>> permitido acentuar palavras; arquivo original não havia nenhum tipo de encoding
+
+Linha 30 >>> "escape_stalker_killed" - não foi traduzido, pois é um diálogo que não existe na versão oficial 1.0006 (Pertence a build 1935);
+Linha 10 >>> "esc_return_dv" - não foi traduzido, pois é um diálogo que não existe na versão oficial 1.0006 (Pertence a build 1935);
+Linha 13 >>> "esc_tutorial_end" - não foi traduzido, pois é um diálogo que não existe na versão oficial 1.0006 (Pertence a build 1935);
+Linha 16 >>> "esc_wolf_thanks" - não foi traduzido, pois é um diálogo que não existe na versão oficial 1.0006 (Pertence a build 1935);
+Linha 24 >>> "escape_stalker_death" - não foi traduzido, pois é um diálogo que não existe na versão oficial 1.0006 (Pertence a build 1935);
+Linha 27 >>> "escape_stalker_helped" - não foi traduzido, pois é um diálogo que não existe na versão oficial 1.0006 (Pertence a build 1935);
+Linha 40 >>> "tips_esc_trader_about_pda" - não foi traduzido, pois é um diálogo que não existe na versão oficial 1.0006 (Pertence a build 1935);
+Linha 52 >>> "tips_esc_trader_quest_1" - não foi traduzido, pois é um diálogo que não existe na versão oficial 1.0006 (Pertence a build 1935);
+Linha 58 >>> "tutorial_trader_give_medikit" - não foi traduzido, pois é um diálogo que não existe na versão oficial 1.0006 (Pertence a build 1935);
+Linha 61 >>> "tutorial_trader_look_vagon" - não foi traduzido, pois é um diálogo que não existe na versão oficial 1.0006 (Pertence a build 1935);
+Linha 65 >>> "tutorial_trader_search_corpses" - não foi traduzido, pois é um diálogo que não existe na versão oficial 1.0006 (Pertence a build 1935);
+
+                      " Todas as linhas acima não estão presentes na versão oficial Steam/GoG 1.0006, poupei meu tempo em traduzi-las e marquei todas elas dentro do arquivo 
+                        sting_table_tips_escape.xml como linhas não utilizadas. Uma pena que a GSC não atuazilou seus arquivos e não removeu strings descenessárias.
+                        Todos os textos que continham diálogos nessas linhas, foram substituídos por (...) "
+
+>>>> Arquivo 100% Traduzido <<<< - 15/07/2023.
+  
+>>>> Revisão Completa <<<< - 15/07/2023.
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________
+----------------------------------
+@string_table_mapspots_escape.xml:
+----------------------------------
+implementado encoding="windows-1252" >>> permitido acentuar palavras; arquivo original não havia nenhum tipo de encoding
+
+                                                " O arquivo não sofreu alterações ou atualizações em seus textos. 100% Vanilla v(Steam/GoG) 1.0006 "
+
+>>>> Arquivo 100% Traduzido <<<< - 15/07/2023.
+  
+>>>> Revisão Completa <<<< - 15/07/2023. 
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________________ 
