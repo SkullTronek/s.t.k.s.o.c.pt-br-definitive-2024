@@ -63,23 +63,23 @@ ________________________________________________________________________________
 ------------------------------
 implementado encoding="windows-1252" >>> permitido acentuar palavras; arquivo original não havia nenhum tipo de encoding
 
-Linha 30 >>> "escape_stalker_killed" - não foi traduzido, pois é um diálogo que não existe na versão oficial 1.0006 (Pertence a build 1935);
-Linha 10 >>> "esc_return_dv" - não foi traduzido, pois é um diálogo que não existe na versão oficial 1.0006 (Pertence a build 1935);
-Linha 13 >>> "esc_tutorial_end" - não foi traduzido, pois é um diálogo que não existe na versão oficial 1.0006 (Pertence a build 1935);
-Linha 16 >>> "esc_wolf_thanks" - não foi traduzido, pois é um diálogo que não existe na versão oficial 1.0006 (Pertence a build 1935);
-Linha 24 >>> "escape_stalker_death" - não foi traduzido, pois é um diálogo que não existe na versão oficial 1.0006 (Pertence a build 1935);
-Linha 27 >>> "escape_stalker_helped" - não foi traduzido, pois é um diálogo que não existe na versão oficial 1.0006 (Pertence a build 1935);
-Linha 40 >>> "tips_esc_trader_about_pda" - não foi traduzido, pois é um diálogo que não existe na versão oficial 1.0006 (Pertence a build 1935);
-Linha 52 >>> "tips_esc_trader_quest_1" - não foi traduzido, pois é um diálogo que não existe na versão oficial 1.0006 (Pertence a build 1935);
-Linha 58 >>> "tutorial_trader_give_medikit" - não foi traduzido, pois é um diálogo que não existe na versão oficial 1.0006 (Pertence a build 1935);
-Linha 61 >>> "tutorial_trader_look_vagon" - não foi traduzido, pois é um diálogo que não existe na versão oficial 1.0006 (Pertence a build 1935);
-Linha 65 >>> "tutorial_trader_search_corpses" - não foi traduzido, pois é um diálogo que não existe na versão oficial 1.0006 (Pertence a build 1935);
+Linha 30 >>> "escape_stalker_killed" - não foi traduzido, pois é um diálogo que não existe na versão oficial 1.0006 (Pertence a build 1935); - 14/07/2023
+Linha 10 >>> "esc_return_dv" - não foi traduzido, pois é um diálogo que não existe na versão oficial 1.0006 (Pertence a build 1935); - 14/07/2023
+Linha 13 >>> "esc_tutorial_end" - não foi traduzido, pois é um diálogo que não existe na versão oficial 1.0006 (Pertence a build 1935); - 14/07/2023
+Linha 16 >>> "esc_wolf_thanks" - não foi traduzido, pois é um diálogo que não existe na versão oficial 1.0006 (Pertence a build 1935); - 14/07/2023
+Linha 24 >>> "escape_stalker_death" - não foi traduzido, pois é um diálogo que não existe na versão oficial 1.0006 (Pertence a build 1935); - 14/07/2023
+Linha 27 >>> "escape_stalker_helped" - não foi traduzido, pois é um diálogo que não existe na versão oficial 1.0006 (Pertence a build 1935); - 14/07/2023
+Linha 40 >>> "tips_esc_trader_about_pda" - não foi traduzido, pois é um diálogo que não existe na versão oficial 1.0006 (Pertence a build 1935); - 14/07/2023
+Linha 52 >>> "tips_esc_trader_quest_1" - não foi traduzido, pois é um diálogo que não existe na versão oficial 1.0006 (Pertence a build 1935); - 14/07/2023
+Linha 58 >>> "tutorial_trader_give_medikit" - não foi traduzido, pois é um diálogo que não existe na versão oficial 1.0006 (Pertence a build 1935); - 14/07/2023
+Linha 61 >>> "tutorial_trader_look_vagon" - não foi traduzido, pois é um diálogo que não existe na versão oficial 1.0006 (Pertence a build 1935); - 14/07/2023
+Linha 65 >>> "tutorial_trader_search_corpses" - não foi traduzido, pois é um diálogo que não existe na versão oficial 1.0006 (Pertence a build 1935); - 14/07/2023
 
                       " Todas as linhas acima não estão presentes na versão oficial Steam/GoG 1.0006, poupei meu tempo em traduzi-las e marquei todas elas dentro do arquivo 
                         sting_table_tips_escape.xml como linhas não utilizadas. Uma pena que a GSC não atuazilou seus arquivos e não removeu strings descenessárias.
                         Todos os textos que continham diálogos nessas linhas, foram substituídos por (...) "
 
->>>> Arquivo 100% Traduzido <<<< - 15/07/2023.
+>>>> Arquivo 100% Traduzido <<<< - 14/07/2023.
   
 >>>> Revisão Completa <<<< - 15/07/2023.
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________
@@ -94,3 +94,15 @@ implementado encoding="windows-1252" >>> permitido acentuar palavras; arquivo or
   
 >>>> Revisão Completa <<<< - 15/07/2023. 
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________
+----------------------------
+@stable_dialogs_garbage.xml:
+----------------------------
+encoding="windows-1251" >>> Atualizado para encoding="windows-1252"
+
+Linha 21 >>> Atualização na escrita; - 15/07/2023
+Linha 55 >>> Diálogo alterado; - 15/07/2023
+Linha 87 >>> "gar_dramm_novice_start_2" - foi totalmente reescrito para melhor compreensão; - 15/07/2023
+Linha 193 >>> String "gar_hellcar_start_311141112" (vanilla) atualizada para string "gar_hellcar_start_31114112" (zrp); - 15/07/2023
+Linha 196 >>> String "gar_hellcar_start_31114111211" (vanilla) atualizada para string "gar_hellcar_start_3111411211" (zrp); - 15/07/2023
+Linha 259 >>> "gar_seryi_about_garbage_1" diálogo (vanilla) alterado para diálogo (zrp); - 15/07/2023
+Linha 278 >>> String "gar_hellcar_start_3111411121" (vanilla) atualizada para string "gar_hellcar_start_311141121" (zrp); - 15/07/2023
