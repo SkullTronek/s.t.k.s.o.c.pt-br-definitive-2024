@@ -20,7 +20,7 @@ Linha 726 >>> Atualização na escrita; - 06/07/2023
 Alterado diálogos com Fanatic, Nimble, Wolf e Sidorovich; - 08/07/2023
 Mudanças no diálogo sobre a Zona com Sidorovich, Fox e Fanatic; - 08/07/2023
 Mudanças no diálogo a respeito sobre o personagem "Strelok"; - 08/07/2023
-Grande alteração nos diálogos com Sidorovich a respeito da Zona e as áreas que existem dentro de Cordon, conteúdo atualizado para uma melhor compreensão; - 09/07/2023
+Grande alteração nos diálogos com Sidorovich a respeito da Zona e as áreas que existem dentro de Cordon, conteúdo atualizado para uma melhor leitura; - 09/07/2023
 
 >>>> Arquivo 100% Traduzido <<<< - 09/07/2023.
 
@@ -34,7 +34,7 @@ implementado encoding="windows-1252" >>> permitido acentuar palavras; arquivo or
 Linha 59 >>> Atualização na escrita; - 11/07/2023
 Linha 71 >>> Atualização na escrita; - 11/07/2023
 Linha 83 >>> Atualização na escrita; - 11/07/2023
-Linha 84 >>> "tutorial_moving_anomaly_text" - foi totalmente reescrito para melhor compreensão; - 11/07/2023
+Linha 84 >>> "tutorial_moving_anomaly_text" - foi totalmente reescrito para melhor leitura; - 11/07/2023
 Linha 89 >>> Atualização na escrita; - 11/07/2023
 
 >>>> Arquivo 100% Traduzido <<<< - 11/07/2023.
@@ -52,7 +52,7 @@ Linha 31 >>> arquivo "ZRP" possui o string da linha 31 atualizado. String foi re
 Linha 77 >>> Atualização na escrita; - 12/07/2023;
 Linha 80 >>> Atualização na escrita; - 12/07/2023;
 Linha 95 >>> "storyline_escape_find_gunslinger" - foi substituído pelo texto do arquivo "ZRP"; - 12/07/2023
-Linha 151 >>> "find_railroad_passage_text" - foi totalmente reescrito para melhor compeensão; - 12/07/2023
+Linha 151 >>> "find_railroad_passage_text" - foi totalmente reescrito para melhor leitura; - 12/07/2023
 
 >>>> Arquivo 100% Traduzido <<<< - 12/07/2023.
 
@@ -113,3 +113,22 @@ Diálogos sobre Garbage (Lixão) foi totalmente reescrito, agora entrega ao joga
   
 >>>> Revisão Completa <<<< - 17/07/2023.
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________
+-------------------------------
+@string_table_tips_garbage.xml:
+-------------------------------
+implementado encoding="windows-1252" >>> permitido acentuar palavras; arquivo original não havia nenhum tipo de encoding
+
+Pequenas alterações nas mensagens do "Rádio"; - 19/07/2023
+
+>>>> Arquivo 100% Traduzido <<<< - 19/07/2023.
+  
+>>>> Revisão Completa <<<< - 19/07/2023. 
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________
+-----------------------------------
+@stable_storyline_info_garbage.xml:
+-----------------------------------
+implementado encoding="windows-1252" >>> permitido acentuar palavras; arquivo original não havia nenhum tipo de encoding
+
+O arquivo está sofrendo grandes mudanças nos textos "Diário" - Todo o conteúdo vai mostrar ao jogador, melhores informações a respeito do Strelok, e durante sua jornada na Zona; - 19/07/2023
+
+Linha 14 >>> Grande atualização no conteúdo escrito em "sl_beginning_text", a escrita no "Diário" (Quem sou Eu?) está no tempo *presente*; - 19/07/2023
