@@ -132,3 +132,37 @@ implementado encoding="windows-1252" >>> permitido acentuar palavras; arquivo or
 O arquivo está sofrendo grandes mudanças nos textos "Diário" - Todo o conteúdo vai mostrar ao jogador, melhores informações a respeito do Strelok, e durante sua jornada na Zona; - 19/07/2023
 
 Linha 14 >>> Grande atualização no conteúdo escrito em "sl_beginning_text", a escrita no "Diário" (Quem sou Eu?) está no tempo *presente*; - 19/07/2023
+Todo conteúdo do "Diário" no arquivo (stable_storyline_info_garbage.xml), foi atualizado e escrito de forma mais clara possível. O jogador vai obter melhores informações na seção "Diário"; - 20/07/2023
+
+>>>> Arquivo 100% Traduzido <<<< - 20/07/2023.
+  
+>>>> Revisão Completa <<<< - 20/07/2023. 
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________
+--------------------------------
+@string_table_tasks_garbage.xml:
+--------------------------------
+implementado encoding="windows-1252" >>> permitido acentuar palavras; arquivo original não havia nenhum tipo de encoding
+
+Pequenas alterações; - 20/07/2023
+
+>>>> Arquivo 100% Traduzido <<<< - 20/07/2023.
+  
+>>>> Revisão Completa <<<< - 20/07/2023.
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________
+-----------------------------------
+@string_table_mapspots_garbage.xml:
+-----------------------------------
+implementado encoding="windows-1252" >>> permitido acentuar palavras; arquivo original não havia nenhum tipo de encoding
+
+                                                " O arquivo não sofreu alterações ou atualizações em seus textos. 100% Vanilla v(Steam/GoG) 1.0006 "
+
+>>>> Arquivo 100% Traduzido <<<< - 20/07/2023.
+  
+>>>> Revisão Completa <<<< - 20/07/2023.
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________
+----------------------------
+@stable_dialogs_agropom.xml:
+----------------------------
+encoding="windows-1251" >>> Atualizado para encoding="windows-1252"
+
+
