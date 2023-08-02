@@ -1,18 +1,22 @@
-s.t.a.l.k.e.r.: shadow of chernobyl tradução 2023
+s.t.a.l.k.e.r.: shadow of chernobyl traduÃ§Ã£o 2023
 
 <!-- Andamento -->
 ------------------------------                             
 [total: 91] | [traduzidos: 11]
 ------------------------------
-<stable_dialogs_escape>: <\Traduzido/Revisado>
-<stable_storyline_info_escape>: <\Traduzido/Revisado>
-<string_table_mapspots_escape>: <\Traduzido/Revisado>
-<string_table_mapspots_escape>: <\Traduzido/Revisado>
-<string_table_tips_escape>: <\Traduzido/Revisado>
-<stable_dialogs_garbage>: <\Traduzido/Revisado>
-<string_table_tasks_garbage>: <\Traduzido/Revisado>
-<string_table_tips_garbage>: <\Traduzido/Revisado>
-<string_table_mapspots_garbage>: <\Traduzido/Revisado>
-<stable_storyline_info_garbage>: <\Traduzido/Revisado>
-<stable_dialogs_agroprom>: <\Traduzido/Revisado>
-<stable_storyline_info_agroprom>: <\Produção>
+<stable_dialogs_escape.xml>: <\Traduzido/Revisado>
+<stable_storyline_info_escape.xml>: <\Traduzido/Revisado>
+<string_table_mapspots_escape.xml>: <\Traduzido/Revisado>
+<string_table_mapspots_escape.xml>: <\Traduzido/Revisado>
+<string_table_tips_escape.xml>: <\Traduzido/Revisado>
+<stable_dialogs_garbage.xml>: <\Traduzido/Revisado>
+<string_table_tasks_garbage.xml>: <\Traduzido/Revisado>
+<string_table_tips_garbage.xml>: <\Traduzido/Revisado>
+<string_table_mapspots_garbage.xml>: <\Traduzido/Revisado>
+<stable_storyline_info_garbage.xml>: <\Traduzido/Revisado>
+<stable_dialogs_agroprom.xml>: <\Traduzido/Revisado>
+<stable_storyline_info_agroprom.xml>: <\Traduzido/Revisado>
+<string_table_mapspots_agroprom.xml>: <\Traduzido/Revisado>
+<string_table_tips_agroprom.xml>: <\Traduzido/Revisado>
+<string_table_tasks_agroprom.xml>: <\Traduzido/Revisado>
+<stable_dialogs_bar.xml>: <\ProduÃ§Ã£o>
