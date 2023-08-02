@@ -29,9 +29,9 @@ Esta é a mais completa e atualizada tradução já feita para Shadow of Chernob
 _______________________________________________________
 **>>>>> Andamento:** *15/91 arquivos traduzidos* **<<<<<**
 
-*Andamento:* https://github.com/SkullTronek/s.t.a.l.k.e.r.-shadow-of-chernobyl-tradu-o2023/blob/main/andamento.xml (última edição: 02/08/2023)
-
 *Log:* https://github.com/SkullTronek/s.t.a.l.k.e.r.-shadow-of-chernobyl-tradu-o2023/blob/main/log.xml (última edição: 02/08/2023)
+
+*Andamento:* https://github.com/SkullTronek/s.t.a.l.k.e.r.-shadow-of-chernobyl-tradu-o2023/blob/main/andamento.xml (última edição: 02/08/2023)
 
 *Rev:* https://github.com/SkullTronek/s.t.a.l.k.e.r.-shadow-of-chernobyl-tradu-o2023/blob/main/rev.xml (última edição: 05/07/2023)
 _______________________________________________________
