@@ -34,5 +34,7 @@ _______________________________________________________
 
 [*Andamento:*](https://github.com/SkullTronek/s.t.a.l.k.e.r.-shadow-of-chernobyl-tradu-o2023/blob/main/andamento.xml) (última edição: 02/08/2023)
 
-[*Rev:*](ttps://github.com/SkullTronek/s.t.a.l.k.e.r.-shadow-of-chernobyl-tradu-o2023/blob/main/rev.xml) (última edição: 05/07/2023)
+
+[*Rev*](https://github.com/SkullTronek/s.t.a.l.k.e.r.-shadow-of-chernobyl-tradu-o2023/blob/main/rev.xml) (última edição: 05/07/2023)
+
 _______________________________________________________
