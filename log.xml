@@ -168,8 +168,55 @@ encoding="windows-1251" >>> Atualizado para encoding="windows-1252"
                                 *Trabalho paralizado desde o dia 23/07/2023*
                                 *Trabalho sendo retomado a partir do dia 01/08/2023*
                                                                                            
-Diálogos com Ratchater, Mole e outros stalkers de Agropom, foram reformulados para melhor entendimento;
+Diálogos com Ratchater, Mole e outros stalkers de Agropom, foram reformulados para melhor entendimento; - 01/08/2023
 
 >>>> Arquivo 100% Traduzido <<<< - 01/08/2023.
   
 >>>> Revisão Completa <<<< - 01/08/2023.
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________
+------------------------------------
+@stable_storyline_info_agroprom.xml:
+------------------------------------
+implementado encoding="windows-1252" >>> permitido acentuar palavras; arquivo original não havia nenhum tipo de encoding
+
+Linha 18 >>> "agr_krot_secret_info" - totalmente reescrita, conteúdo atializado para melhor entendimento; - 02/08/2023
+Linha 26 >>> "agr_military_case" - grande alteração na escrita, boa parte refeita para melhor  entendimento; - 02/08/2023
+Linha 78 >>> "storyline_gunslinger_flash_info" - grande alteração na escrita, boa parte refeita para melhor entendimento; - 02/08/2023
+
+>>>> Arquivo 100% Traduzido <<<< - 02/08/2023.
+  
+>>>> Revisão Completa <<<< - 02/08/2023.
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________
+------------------------------------
+@string_table_mapspots_agroprom.xml:
+------------------------------------
+implementado encoding="windows-1252" >>> permitido acentuar palavras; arquivo original não havia nenhum tipo de encoding
+
+                                                " O arquivo não sofreu alterações ou atualizações em seus textos. 100% Vanilla v(Steam/GoG) 1.0006 "
+
+>>>> Arquivo 100% Traduzido <<<< - 02/08/2023.
+  
+>>>> Revisão Completa <<<< - 02/08/2023.
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________
+--------------------------------
+@string_table_tips_agroprom.xml:
+--------------------------------
+implementado encoding="windows-1252" >>> permitido acentuar palavras; arquivo original não havia nenhum tipo de encoding
+
+                                                " O arquivo não sofreu alterações ou atualizações em seus textos. 100% Vanilla v(Steam/GoG) 1.0006 "
+
+>>>> Arquivo 100% Traduzido <<<< - 02/08/2023.
+  
+>>>> Revisão Completa <<<< - 02/08/2023.
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________
+---------------------------------
+@string_table_tasks_agroprom.xml:
+---------------------------------
+ implementado encoding="windows-1252" >>> permitido acentuar palavras; arquivo original não havia nenhum tipo de encoding
+
+                                                " O arquivo não sofreu alterações ou atualizações em seus textos. 100% Vanilla v(Steam/GoG) 1.0006 "
+
+>>>> Arquivo 100% Traduzido <<<< - 02/08/2023.
+  
+>>>> Revisão Completa <<<< - 02/08/2023.
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________
