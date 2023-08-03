@@ -1,8 +1,8 @@
 # S.T.A.L.K.E.R.: Shadow of Chernobyl Tradução 2023
 _______________________________________________________
-[Projeto antigo cancelado (v2020)](https://www.moddb.com/news/traduo-refeita-para-stalker-shadow-of-chernobyl)
+[Projeto antigo cancelado (v2020)](https://www.moddb.com/news/traduo-refeita-para-stalker-shadow-of-chernobyl): Moddb.com
 
-[Explicando o cancelamento do projeto (v2020)](https://www.moddb.com/games/stalker/news/stalker-shadow-of-chernobyl-traduo-2023)
+[Explicando o cancelamento do projeto (v2020)](https://www.moddb.com/games/stalker/news/stalker-shadow-of-chernobyl-traduo-2023): Moddb.com
 _______________________________________________________
 
 S.T.A.L.K.E.R.: Shadow of Chernobyl recebeu duas traduções, ambos as versões possuem erros de acentuação, erros de string e também linhas que não existem na versão final oficial v.10006
@@ -29,12 +29,12 @@ Esta é a mais completa e atualizada tradução já feita para Shadow of Chernob
 _______________________________________________________
 **>>>>> Andamento:** *15/91 arquivos traduzidos* **<<<<<**
 
-[*Log:*](https://github.com/SkullTronek/s.t.a.l.k.e.r.-shadow-of-chernobyl-tradu-o2023/blob/main/log.xml) (última edição: 02/08/2023)
+[*Log*](https://github.com/SkullTronek/s.t.a.l.k.e.r.-shadow-of-chernobyl-tradu-o2023/blob/main/log.xml): (última edição: 02/08/2023)
 
 
-[*Andamento:*](https://github.com/SkullTronek/s.t.a.l.k.e.r.-shadow-of-chernobyl-tradu-o2023/blob/main/andamento.xml) (última edição: 02/08/2023)
+[*Andamento*](https://github.com/SkullTronek/s.t.a.l.k.e.r.-shadow-of-chernobyl-tradu-o2023/blob/main/andamento.xml): (última edição: 02/08/2023)
 
 
-[*Rev*](https://github.com/SkullTronek/s.t.a.l.k.e.r.-shadow-of-chernobyl-tradu-o2023/blob/main/rev.xml) (última edição: 05/07/2023)
+[*Rev*](https://github.com/SkullTronek/s.t.a.l.k.e.r.-shadow-of-chernobyl-tradu-o2023/blob/main/rev.xml): (última edição: 05/07/2023)
 
 _______________________________________________________
