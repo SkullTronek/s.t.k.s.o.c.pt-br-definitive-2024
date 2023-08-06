@@ -217,6 +217,22 @@ ________________________________________________________________________________
                                                 " O arquivo não sofreu alterações ou atualizações em seus textos. 100% Vanilla v(Steam/GoG) 1.0006 "
 
 >>>> Arquivo 100% Traduzido <<<< - 02/08/2023.
-  
+
 >>>> Revisão Completa <<<< - 02/08/2023.
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________
+------------------------
+@stable_dialogs_bar.xml:
+------------------------ 
+encoding="windows-1251" >>> Atualizado para encoding="windows-1252"
+
+*Estrutura do arquivo: 
+  - Os diálogos de Wild Territory "Território Selvagem" estão dentro do arquivo (@stable_dialogs_bar). - 05/08/2023
+    -- As linhas dos diálogos de Wild Territory foram organizadas. - 05/08/2023
+    -- Há marcadores entre os diálogos de Wild Territory e Rostok (Fábrica de Rostok). - 05/08/2023 
+    -- Diálogos com stalkers dentro do 100 Rad's bar, foram organizadas e ganharam marcadores. - 05/08/202
+
+*Atualizações:
+  - Foi implementado o esquema de linguajar.
+    -- O Dutyer bêbado agora conversa como um bêbado. {Diálogo recriado} - 05/08/2023
+    -- Dutyers em Rostok são muito mais agressivos nas conversas, mostrando liderança, superioridade e disciplina. {Maior parte dos diálogos recriados, alguns atualizados} - 05/08/2023
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________
