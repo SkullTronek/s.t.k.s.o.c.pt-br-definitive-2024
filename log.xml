@@ -231,8 +231,16 @@ encoding="windows-1251" >>> Atualizado para encoding="windows-1252"
     -- Há marcadores entre os diálogos de Wild Territory e Rostok (Fábrica de Rostok). - 05/08/2023 
     -- Diálogos com stalkers dentro do 100 Rad's bar, foram organizadas e ganharam marcadores. - 05/08/202
 
+  - Diálogos da base Duty dentro de Rostok ganharam marcadores. - 09/08/2023
+    -- Dialogos com Petrenko e Voronin foram recriados. - 09/08/2023
+    -- Guardas da entrada para a base Dutyer, mostram respeito, postura e personalidades lunáticas. - 09/08/2023
+
+  - Diálogos com Arnie "Arena", foram recriados - 09/08/2023
+
+
 *Atualizações:
   - Foi implementado o esquema de linguajar.
     -- O Dutyer bêbado agora conversa como um bêbado. {Diálogo recriado} - 05/08/2023
     -- Dutyers em Rostok são muito mais agressivos nas conversas, mostrando liderança, superioridade e disciplina. {Maior parte dos diálogos recriados, alguns atualizados} - 05/08/2023
+    -- Diálogo com Hunter recriado. - 09/08/2023
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________
