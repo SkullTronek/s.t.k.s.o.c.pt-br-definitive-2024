@@ -1,40 +1,29 @@
-# S.T.A.L.K.E.R.: Shadow of Chernobyl Tradução 2023
-_______________________________________________________
-[Projeto antigo cancelado (v2020)](https://www.moddb.com/news/traduo-refeita-para-stalker-shadow-of-chernobyl): Moddb.com
-
-[Explicando o cancelamento do projeto (v2020)](https://www.moddb.com/games/stalker/news/stalker-shadow-of-chernobyl-traduo-2023): Moddb.com
+# S.T.A.L.K.E.R.: Shadow of Chernobyl Tradução Definitiva 2024
 _______________________________________________________
 
-S.T.A.L.K.E.R.: Shadow of Chernobyl recebeu duas traduções, ambos as versões possuem erros de acentuação, erros de string e também linhas que não existem na versão final oficial v.10006
+Se você está prestes a relembrar o lendrário Shadow of Chernobyl, que essa experiência seja única novamente.
+Sem addons ou modificações. Apenas os diálogos vão lhe proporcionar uma nova imersão na história do primeiro S.T.A.L.K.E.R.
 
-Esta é a mais completa e atualizada tradução já feita para Shadow of Chernobyl, nela contém:
+  - Todos os diálogos e textos foram recriados. Escritos do zero acompanhando e implementando a Lore do jogo.
+  - Cada npc importante para história, receberam inumeras atualizações em seus diálogos. Praticamente todos os diálogos foram reescritos.
+  - Inúmeras correções nos arquivos .xml. Novas fontes, mais limpas e mais fácil de ler.
+  - Todas as palavras possuem acentos. (.,•/#-!?;_=+*\'"()[]{}), Todos os caracteres especiais foram utilizados de forma para melhor organizar a apresentação dos diálogos para o jogador.
+  - Compatível com as versões **STEAM/GOG no update 1.0006**
 
-- Acentuação em todas as palavras do dicionário português brasileiro
-- Totalmente remodelada do zero
-- Diálogos reformulados para melhor entendimento
-- Destaques em textos que mostra ao jogador partes importantes da história
-- Uso de palavras inteligentes " Personagens específicos possuem um linguajar diferente, o mesmo com facções específicas"
-- Compatível com todas as vozes (Inglês, Ucrâniano, Russo, Espanhol, Italiano, Japonês, etc..)
-- Compatível com as versões Steam/GoG v.10006
-
-*Todo o projeto foi escrito e feito por Jonathas Fiorito Melo*
-
-*Agradecimentos para NatVac, por fornercer arquivos .txt corrigidos e atualizados com seu mod ZRP*
-
-**Esta tradução não possui mods algum, nem mesmo o Zone Reclamation Project. Há somente arquivos de texto em português brasileiro compatível com SoC v1.0006 Steam/GoG**
-#
-
-
-
+**Data de Lançamento: 15/##/24**  
+      #Estágio Atual: v0.9.4 - stable - rev 0.9.4.3 - alpha
 _______________________________________________________
-**>>>>> Andamento:** *15/91 arquivos traduzidos* **<<<<<**
 
-[*Log*](https://github.com/SkullTronek/s.t.a.l.k.e.r.-shadow-of-chernobyl-tradu-o2023/blob/main/log.xml): (última edição: 20/08/2023)
-
-
-[*Andamento*](https://github.com/SkullTronek/s.t.a.l.k.e.r.-shadow-of-chernobyl-tradu-o2023/blob/main/andamento.xml): (última edição: 20/08/2023)
-
-
-[*Rev*](https://github.com/SkullTronek/s.t.a.l.k.e.r.-shadow-of-chernobyl-tradu-o2023/blob/main/rev.xml): (última edição: 05/07/2023)
-
+## Atualizações Futuras
 _______________________________________________________
+
+Shadow of Chernobyl há vários diálogos com npcs que não são feitos pela "caixa de diálogos ou screen_talk". Isso deixa passar alguns pontos importantes da história. Principalmente as cenas de Strelok com Doctor em Swamps.
+
+Vasculhando a web, descobri algumas legendas em russo para a v1.0004 ww de SoC. O projeto original foi feito anos atrás pela (AP-PRO). E sim, existe uma versão derivada do projeto atual em português brasileiro.
+[🔗](https://steamcommunity.com/sharedfiles/filedetails/?id=654925826)
+
+Porém é uma versão que causa conflitos com a v.Steam/GoG 1.0006. A ideia principal é tornar as legendas possiveis no steam/gog 1.0006. Porém será uma versão standlone, separada da primeira release da tradução.
+_______________________________________________________
+*créditos:*
+ *☢𝐓r*
+ *✝mr_shaker✝*
