@@ -11,7 +11,7 @@ Sem addons ou modificações. Apenas os diálogos vão lhe proporcionar uma nova
   - Compatível com as versões **STEAM/GOG no update 1.0006**
 
 **Data de Lançamento: 15/##/24**  
-      #Estágio Atual: v0.9.4 - stable - rev 0.9.4.3 - alpha
+      #Estágio Atual: v0.9.7 - 19/01/24
 _______________________________________________________
 
 ## Atualizações Futuras
